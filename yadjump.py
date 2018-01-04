@@ -4,8 +4,6 @@
 import requests
 import json
 import argparse
-from lxml import html
-
 
 def getcookies(username,password):
 
